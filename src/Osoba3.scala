@@ -1,3 +1,3 @@
-class Osoba3(val imie:String, val nazwisko:String) {
+case class Osoba3(imie:String, nazwisko:String) {
 
 }

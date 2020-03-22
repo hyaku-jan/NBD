@@ -22,10 +22,10 @@ object Task2
 
   def greet(p:Osoba3) =
     {
-      p.imie match
+      p match
       {
-        case "Anna" | "Urszula" => s"Dzien dobry ${p.imie} ${p.nazwisko}"
-        case "Kamil"| "Krzysztof" => s"Witaj ${p.nazwisko} ${p.imie}"
+        case Osoba3("Anna",_) | Osoba3("Urszula",_) => s"Dzien dobry ${p.imie} ${p.nazwisko}"
+        case Osoba3(_, "Kowalski")| Osoba3(_,"Kwiatkowski") => s"Witaj ${p.nazwisko} ${p.imie}"
         case _ => s"Milo poznac ${p.imie}"
       }
     }
