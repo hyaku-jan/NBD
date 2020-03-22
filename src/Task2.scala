@@ -66,6 +66,12 @@ object Task2
     validateStatement(()=>passFunction(10,(x:Int)=>x*2,3),println)
     println("---------------------------------------------------")
 
+    validateStatement(()=>new Osoba5("Jan","Student") with Student, (x:Osoba5)=>println(f"${x.imie} ${x.nazwisko} ${x.podatek}%.2f$$"))
+    validateStatement(()=>new Osoba5("Jan","Nauczyciel") with Nauczyciel, (x:Osoba5)=>println(f"${x.imie} ${x.nazwisko} ${x.podatek}%.2f$$"))
+    validateStatement(()=>new Osoba5("Jan","Pracownik") with Pracownik, (x:Osoba5)=>println(f"${x.imie} ${x.nazwisko} ${x.podatek}%.2f$$"))
 
+    validateStatement(()=>new Osoba5("Jan","Multi1") with Pracownik with Student, (x:Osoba5)=>println(f"${x.imie} ${x.nazwisko} ${x.podatek}%.2f$$"))
+
+    validateStatement(()=>new Osoba5("Jan","Multi2") with  Student with Pracownik, (x:Osoba5)=>println(f"${x.imie} ${x.nazwisko} ${x.podatek}%.2f$$"))
   }
 }
