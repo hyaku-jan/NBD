@@ -1,0 +1,3 @@
+db.people.insertOne({"sex" : "Male", "first_name" : "Jan", "last_name" : "Stojaczyk", "job" : "Netizen", "email" : "s21748@pjwstk.edu.pl", "location" : { "city" : "Gdynia", "address" : { "streetname" : "Ulica", "streetnumber" : "144" } }, "description" : "augue aliquam erat volutpat in congue etiam justo etiam pretium iaculis justo in hac habitasse platea dictumst etiam", "height" : "205.45", "weight" : "99.99", "birth_date" : "1990-09-04T03:20:22Z", "nationality" : "Polan", "credit" : [ { "type" : "maestro", "number" : "1111111111111111", "currency" : "PLN", "balance" : "47999.17" } ] });
+printjson(db.people.find({'first_name':'Jan' ,'last_name':'Stojaczyk'}).toArray())
+
