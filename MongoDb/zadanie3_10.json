@@ -1,0 +1,612 @@
+MongoDB shell version v4.2.5
+connecting to: mongodb://127.0.0.1:27017/ndb?compressors=disabled&gssapiServiceName=mongodb
+Implicit session: session { "id" : UUID("b42c498a-0882-4acc-a911-fab161fbf728") }
+MongoDB server version: 4.2.5
+Docs with job:Editor, and their emails
+[
+	{
+		"_id" : ObjectId("5e87406110db1b34e43525d8"),
+		"email" : "jbailey23@deliciousdays.com"
+	},
+	{
+		"_id" : ObjectId("5e87406110db1b34e435261a"),
+		"email" : "ashaw3w@mozilla.org"
+	},
+	{
+		"_id" : ObjectId("5e87406110db1b34e435262d"),
+		"email" : "ggarza4g@gnu.org"
+	},
+	{
+		"_id" : ObjectId("5e87406110db1b34e435264f"),
+		"email" : "kmitchell5d@sfgate.com"
+	},
+	{
+		"_id" : ObjectId("5e87406110db1b34e43526d7"),
+		"email" : "psnyder97@jugem.jp"
+	},
+	{
+		"_id" : ObjectId("5e87406110db1b34e4352713"),
+		"email" : "egibsonav@google.nl"
+	},
+	{
+		"_id" : ObjectId("5e87406110db1b34e4352735"),
+		"email" : "hjenkinsbr@unicef.org"
+	},
+	{
+		"_id" : ObjectId("5e87406110db1b34e435279d"),
+		"email" : "jboydep@vkontakte.ru"
+	},
+	{
+		"_id" : ObjectId("5e87406110db1b34e435279f"),
+		"email" : "treynoldser@si.edu"
+	},
+	{
+		"_id" : ObjectId("5e87406110db1b34e4352835"),
+		"email" : "whuntix@fda.gov"
+	},
+	{
+		"_id" : ObjectId("5e87406110db1b34e4352905"),
+		"email" : "kortizop@etsy.com"
+	},
+	{
+		"_id" : ObjectId("5e87406110db1b34e4352955"),
+		"email" : "sreidqe@deliciousdays.com"
+	},
+	{
+		"_id" : ObjectId("5e87406110db1b34e43529b7"),
+		"email" : "tpowelltn@4shared.com"
+	},
+	{
+		"_id" : ObjectId("5e87406110db1b34e43529bb"),
+		"email" : "iromerotr@bizjournals.com"
+	},
+	{
+		"_id" : ObjectId("5e87406110db1b34e4352a0e"),
+		"email" : "sberryw2@shareasale.com"
+	},
+	{
+		"_id" : ObjectId("5e87406110db1b34e4352a1d"),
+		"email" : "gwellswf@ifeng.com"
+	},
+	{
+		"_id" : ObjectId("5e87406110db1b34e4352a52"),
+		"email" : "hperezxy@thetimes.co.uk"
+	},
+	{
+		"_id" : ObjectId("5e87406110db1b34e4352a81"),
+		"email" : "jpricez8@networksolutions.com"
+	},
+	{
+		"_id" : ObjectId("5e87406110db1b34e4352b7d"),
+		"email" : "hreed169@shinystat.com"
+	},
+	{
+		"_id" : ObjectId("5e87406110db1b34e4352b9e"),
+		"email" : "groberts176@pbs.org"
+	},
+	{
+		"_id" : ObjectId("5e87406110db1b34e4352bde"),
+		"email" : "hgrant18y@bizjournals.com"
+	},
+	{
+		"_id" : ObjectId("5e87406110db1b34e4352c3a"),
+		"email" : "treyes1bi@csmonitor.com"
+	},
+	{
+		"_id" : ObjectId("5e87406110db1b34e4352cb3"),
+		"email" : "chart1eu@yolasite.com"
+	},
+	{
+		"_id" : ObjectId("5e87406110db1b34e4352cff"),
+		"email" : "rmiller1gz@issuu.com"
+	},
+	{
+		"_id" : ObjectId("5e87406110db1b34e4352d35"),
+		"email" : "jking1id@mapy.cz"
+	},
+	{
+		"_id" : ObjectId("5e87406110db1b34e4352d4a"),
+		"email" : "bferguson1j2@yahoo.com"
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e4352df8"),
+		"email" : "mgutierrez1nw@mapquest.com"
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e4352e1b"),
+		"email" : "ngardner1ou@ted.com"
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e4352e20"),
+		"email" : "lmoore1oz@apache.org"
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e4352e4e"),
+		"email" : "cburke1qa@list-manage.com"
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e4352f09"),
+		"email" : "chudson1vh@nyu.edu"
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e435307d"),
+		"email" : "rbradley25s@disqus.com"
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e435314c"),
+		"email" : "cromero2bk@histats.com"
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e43531a6"),
+		"email" : "ssims2e2@godaddy.com"
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e4353213"),
+		"email" : "bperez2h2@cafepress.com"
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e43532c7"),
+		"email" : "rmills2m3@nytimes.com"
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e43533b4"),
+		"email" : "jmartinez2sm@about.me"
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e435340a"),
+		"email" : "mrivera2v1@ucoz.ru"
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e4353439"),
+		"email" : "jlee2wc@google.ru"
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e435343a"),
+		"email" : "awood2wd@wired.com"
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e4353555"),
+		"email" : "adaniels349@linkedin.com"
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e43536cf"),
+		"email" : "cgonzales3eq@furl.net"
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e43536ff"),
+		"email" : "ecrawford3g2@wikimedia.org"
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e4353714"),
+		"email" : "sclark3go@comsenz.com"
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e4353800"),
+		"email" : "dlong3n8@icq.com"
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e4353860"),
+		"email" : "doliver3pu@cnbc.com"
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e43538ef"),
+		"email" : "afernandez3tv@dyndns.org"
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e43539cf"),
+		"email" : "kwhite402@blog.com"
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e43539e6"),
+		"email" : "rnguyen40p@dagondesign.com"
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e4353b68"),
+		"email" : "klawrence4be@w3.org"
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e4353bba"),
+		"email" : "vmurphy4dq@friendfeed.com"
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e4353be7"),
+		"email" : "naustin4ew@oakley.com"
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e4353c27"),
+		"email" : "krobertson4gr@ucoz.com"
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e4353c40"),
+		"email" : "thowell4hf@example.com"
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e4353cf0"),
+		"email" : "edean4ma@statcounter.com"
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e4353de3"),
+		"email" : "jhamilton4t3@icio.us"
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e4353df0"),
+		"email" : "wgraham4tf@storify.com"
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e4353e19"),
+		"email" : "jlawson4uj@globo.com"
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e4353e82"),
+		"email" : "pmurphy4x7@cnbc.com"
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e4353efa"),
+		"email" : "sbaker50u@mit.edu"
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e4353f7b"),
+		"email" : "smurphy54f@bizjournals.com"
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e4353fc9"),
+		"email" : "bcooper56l@umich.edu"
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e435400d"),
+		"email" : "eramirez58g@yale.edu"
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e4354043"),
+		"email" : "dperry59w@npr.org"
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e4354050"),
+		"email" : "rreynolds5ab@weibo.com"
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e435408e"),
+		"email" : "nday5c1@utexas.edu"
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e435410b"),
+		"email" : "jburton5fj@behance.net"
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e4354221"),
+		"email" : "bwest5n8@e-recht24.de"
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e43542f0"),
+		"email" : "ngutierrez5t0@ocn.ne.jp"
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e43543b7"),
+		"email" : "mcruz5yg@wiley.com"
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e43543ce"),
+		"email" : "jfoster5z6@patch.com"
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e435449e"),
+		"email" : "jhenderson64y@pinterest.com"
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e43544f6"),
+		"email" : "mhall67d@tmall.com"
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e4354859"),
+		"email" : "dhunt6vh@nifty.com"
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e4354860"),
+		"email" : "twatson6vo@devhub.com"
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e4354905"),
+		"email" : "tperkins709@ucoz.ru"
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e4354960"),
+		"email" : "vmatthews72r@surveymonkey.com"
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e43549e1"),
+		"email" : "ahenderson76b@imageshack.us"
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e43549f1"),
+		"email" : "sedwards76t@theatlantic.com"
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e4354a6e"),
+		"email" : "lwoods7a9@ebay.com"
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e4354b15"),
+		"email" : "emurphy7ew@cbslocal.com"
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e4354b17"),
+		"email" : "ajenkins7ey@freewebs.com"
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e4354b62"),
+		"email" : "fwest7h2@prlog.org"
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e4354b83"),
+		"email" : "sbishop7hy@hc360.com"
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e4354c6b"),
+		"email" : "schavez7of@buzzfeed.com"
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e4354c81"),
+		"email" : "jriley7p0@mozilla.com"
+	}
+]
+Docs with job:Editor, and their emails after update
+[
+	{
+		"_id" : ObjectId("5e87406110db1b34e43525d8")
+	},
+	{
+		"_id" : ObjectId("5e87406110db1b34e435261a")
+	},
+	{
+		"_id" : ObjectId("5e87406110db1b34e435262d")
+	},
+	{
+		"_id" : ObjectId("5e87406110db1b34e435264f")
+	},
+	{
+		"_id" : ObjectId("5e87406110db1b34e43526d7")
+	},
+	{
+		"_id" : ObjectId("5e87406110db1b34e4352713")
+	},
+	{
+		"_id" : ObjectId("5e87406110db1b34e4352735")
+	},
+	{
+		"_id" : ObjectId("5e87406110db1b34e435279d")
+	},
+	{
+		"_id" : ObjectId("5e87406110db1b34e435279f")
+	},
+	{
+		"_id" : ObjectId("5e87406110db1b34e4352835")
+	},
+	{
+		"_id" : ObjectId("5e87406110db1b34e4352905")
+	},
+	{
+		"_id" : ObjectId("5e87406110db1b34e4352955")
+	},
+	{
+		"_id" : ObjectId("5e87406110db1b34e43529b7")
+	},
+	{
+		"_id" : ObjectId("5e87406110db1b34e43529bb")
+	},
+	{
+		"_id" : ObjectId("5e87406110db1b34e4352a0e")
+	},
+	{
+		"_id" : ObjectId("5e87406110db1b34e4352a1d")
+	},
+	{
+		"_id" : ObjectId("5e87406110db1b34e4352a52")
+	},
+	{
+		"_id" : ObjectId("5e87406110db1b34e4352a81")
+	},
+	{
+		"_id" : ObjectId("5e87406110db1b34e4352b7d")
+	},
+	{
+		"_id" : ObjectId("5e87406110db1b34e4352b9e")
+	},
+	{
+		"_id" : ObjectId("5e87406110db1b34e4352bde")
+	},
+	{
+		"_id" : ObjectId("5e87406110db1b34e4352c3a")
+	},
+	{
+		"_id" : ObjectId("5e87406110db1b34e4352cb3")
+	},
+	{
+		"_id" : ObjectId("5e87406110db1b34e4352cff")
+	},
+	{
+		"_id" : ObjectId("5e87406110db1b34e4352d35")
+	},
+	{
+		"_id" : ObjectId("5e87406110db1b34e4352d4a")
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e4352df8")
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e4352e1b")
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e4352e20")
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e4352e4e")
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e4352f09")
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e435307d")
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e435314c")
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e43531a6")
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e4353213")
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e43532c7")
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e43533b4")
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e435340a")
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e4353439")
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e435343a")
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e4353555")
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e43536cf")
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e43536ff")
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e4353714")
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e4353800")
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e4353860")
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e43538ef")
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e43539cf")
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e43539e6")
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e4353b68")
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e4353bba")
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e4353be7")
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e4353c27")
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e4353c40")
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e4353cf0")
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e4353de3")
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e4353df0")
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e4353e19")
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e4353e82")
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e4353efa")
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e4353f7b")
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e4353fc9")
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e435400d")
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e4354043")
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e4354050")
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e435408e")
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e435410b")
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e4354221")
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e43542f0")
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e43543b7")
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e43543ce")
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e435449e")
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e43544f6")
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e4354859")
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e4354860")
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e4354905")
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e4354960")
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e43549e1")
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e43549f1")
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e4354a6e")
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e4354b15")
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e4354b17")
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e4354b62")
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e4354b83")
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e4354c6b")
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e4354c81")
+	}
+]

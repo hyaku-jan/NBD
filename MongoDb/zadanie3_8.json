@@ -1,0 +1,22 @@
+MongoDB shell version v4.2.5
+connecting to: mongodb://127.0.0.1:27017/ndb?compressors=disabled&gssapiServiceName=mongodb
+Implicit session: session { "id" : UUID("04c86ee0-4495-4537-a242-7a901395f5aa") }
+MongoDB server version: 4.2.5
+Docs with "Moscow"
+[
+	{
+		"_id" : ObjectId("5e87406110db1b34e4352cf6")
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e4353ed1")
+	}
+]
+Docs with "Moskwa"
+[
+	{
+		"_id" : ObjectId("5e87406110db1b34e4352cf6")
+	},
+	{
+		"_id" : ObjectId("5e87406210db1b34e4353ed1")
+	}
+]

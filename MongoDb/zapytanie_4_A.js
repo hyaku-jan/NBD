@@ -1,0 +1,1 @@
+printjson(db.people.aggregate([{$project:{nation:"$nationality", w:{$toDouble:"$weight"},h:{$toDouble:"$height"}}},{$project:{nation:1, bmi:{$divide:["$w",{$multiply:["$h","$h",0.0001]}]}}},{$group:{_id:{country:"$nation"},min:{$min:"$bmi"},max:{$max:"$bmi"},avg:{$avg:"$bmi"}}}]).toArray())
