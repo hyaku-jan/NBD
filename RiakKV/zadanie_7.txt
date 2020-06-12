@@ -1,0 +1,159 @@
+
+###### Zadanie 1 
+curl -i -X POST -H "Content-Type: application/json" -d '{"name": "Jan", "sex": "MALE", "age":12, "weight":35}'  http://localhost:8098/buckets/s21748/keys/Jan
+
+HTTP/1.1 204 No Content
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Date: Fri, 12 Jun 2020 16:29:42 GMT
+Content-Type: application/json
+Content-Length: 0
+
+
+curl -i -X POST -H "Content-Type: application/json" -d '{"name": "Anna", "sex": "FEMALE", "age":13, "weight":25}'  http://localhost:8098/buckets/s21748/keys/Anna
+
+HTTP/1.1 204 No Content
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Date: Fri, 12 Jun 2020 16:30:41 GMT
+Content-Type: application/json
+Content-Length: 0
+
+
+curl -i -X POST -H "Content-Type: application/json" -d '{"name": "Janina", "sex": "FEMALE", "age":18, "weight":89}'  http://localhost:8098/buckets/s21748/keys/Janina
+
+HTTP/1.1 204 No Content
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Date: Fri, 12 Jun 2020 16:31:15 GMT
+Content-Type: application/json
+Content-Length: 0
+
+
+
+curl -i -X POST -H "Content-Type: application/json" -d '{"name": "Borys", "sex": "MALE", "age":124, "weight":113}'  http://localhost:8098/buckets/s21748/keys/Borys
+
+HTTP/1.1 204 No Content
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Date: Fri, 12 Jun 2020 16:31:47 GMT
+Content-Type: application/json
+Content-Length: 0
+
+
+
+curl -i -X POST -H "Content-Type: application/json" -d '{"name": "Krzysztof", "sex": "MALE", "age":11, "weight":46}'  http://localhost:8098/buckets/s21748/keys/Krzysztof
+
+HTTP/1.1 204 No Content
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Date: Fri, 12 Jun 2020 16:32:11 GMT
+Content-Type: application/json
+Content-Length: 0
+
+curl http://localhost:8098/buckets/s21748/keys?keys=true
+{"keys":["Janina","Borys","Krzysztof","Jan","Anna"]}
+
+###### Zadanie 2 
+curl -i -X GET http://localhost:8098/buckets/s21748/keys/Borys
+
+HTTP/1.1 200 OK
+X-Riak-Vclock: a85hYGBgzGDKBVI8ypz/foYefSHEwKAulMGUyJTHyiCgHXGDLwsA
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Link: </buckets/s21748>; rel="up"
+Last-Modified: Fri, 12 Jun 2020 16:36:32 GMT
+ETag: "67lXi13bgwxPlBmwVERA1m"
+Date: Fri, 12 Jun 2020 16:37:41 GMT
+Content-Type: application/json
+Content-Length: 57
+
+{"name": "Borys", "sex": "MALE", "age":124, "weight":113}
+
+####### Zadanie 3
+curl -i -X PUT -H "Content-Type: application/json" -d '{"name": "Borys", "sex": "MALE", "age":124, "weight":113, "LOREM":{"ipsum":true}}'  http://localhost:8098/riak/s21748/Borys
+HTTP/1.1 204 No Content
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Date: Fri, 12 Jun 2020 16:47:59 GMT
+Content-Type: application/json
+Content-Length: 0
+##### Wartosc po edycji
+{"name": "Borys", "sex": "MALE", "age":124, "weight":113, "LOREM":{"ipsum":true}}
+
+
+###### Zadanie 4
+curl -i -X PUT -H "Content-Type: application/json" -d '{"name": "Borys", "sex": "MALE", "age":124, "weight":113'}  http://localhost:8098/riak/s21748/Borys
+HTTP/1.1 204 No Content
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Date: Fri, 12 Jun 2020 16:53:45 GMT
+Content-Type: application/json
+Content-Length: 0
+##### Wartosc po edycji
+{"name": "Borys", "sex": "MALE", "age":124, "weight":113}
+
+##### Zadanie 5
+curl -i -X PUT -H "Content-Type: application/json" -d '{"name": "Borys", "sex": "MALE", "age":24, "weight":113'}  http://localhost:8098/riak/s21748/Borys
+HTTP/1.1 204 No Content
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Date: Fri, 12 Jun 2020 16:56:06 GMT
+Content-Type: application/json
+Content-Length: 0
+##### Wartosc po edycji
+{"name": "Borys", "sex": "MALE", "age":24, "weight":113}
+
+###### Zadanie 6
+curl -i -X DELETE http://localhost:8098/riak/s21748/Borys
+HTTP/1.1 204 No Content
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Date: Fri, 12 Jun 2020 16:58:11 GMT
+Content-Type: application/json
+Content-Length: 0
+
+###### Zadanie 7
+curl -i -X GET http://localhost:8098/riak/s21748/Borys
+HTTP/1.1 404 Object Not Found
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Date: Fri, 12 Jun 2020 16:58:52 GMT
+Content-Type: text/plain
+Content-Length: 10
+
+not found
+
+###### Zadanie 8
+curl -i -X POST -H "Content-Type: application/json" -d '{"foo":"bar"}'  http://localhost:8098/riak/s21748
+HTTP/1.1 201 Created
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Location: /riak/s21748/OHvvqIQ61inxsOyZHYAZgNZ6ok0
+Date: Fri, 12 Jun 2020 17:04:00 GMT
+Content-Type: application/json
+Content-Length: 0
+
+##### Zadanie 9
+curl -i -X GET http://localhost:8098/riak/s21748/OHvvqIQ61inxsOyZHYAZgNZ6ok0
+HTTP/1.1 200 OK
+X-Riak-Vclock: a85hYGBgzGDKBVI8ypz/foYevtrGwKAumMGUyJjHytBgGHGDLwsA
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Link: </riak/s21748>; rel="up"
+Last-Modified: Fri, 12 Jun 2020 17:04:00 GMT
+ETag: "7QBZLiqng3h8NlXDks0mMT"
+Date: Fri, 12 Jun 2020 17:04:42 GMT
+Content-Type: application/json
+Content-Length: 13
+
+{"foo":"bar"}
+
+###### Zadanie 10
+curl -i -X DELETE http://localhost:8098/riak/s21748/OHvvqIQ61inxsOyZHYAZgNZ6ok0
+HTTP/1.1 204 No Content
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Date: Fri, 12 Jun 2020 17:05:20 GMT
+Content-Type: application/json
+Content-Length: 0
+
