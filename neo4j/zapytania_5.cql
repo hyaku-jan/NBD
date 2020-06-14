@@ -7,13 +7,13 @@ MATCH (movie:Movie)<-[:ACTED_IN]-(:Person{name: "Hugo Weaving"}) RETURN movie
 //zadanie 3:
 MATCH (director:Person)-[:DIRECTED]->(:Movie)<-[:ACTED_IN]-(:Person{name: "Hugo Weaving"}) RETURN director
 
-//zadanie 4: dopytac
+//zadanie 4:
 MATCH (actor:Person)-[:ACTED_IN]->(movie:Movie)<-[:ACTED_IN]-(:Person{name: "Hugo Weaving"}) RETURN actor,movie
 
-//zadanie 5: dopytac
+//zadanie 5:
 MATCH (:Movie{title:"The Matrix"})<-[:ACTED_IN]-(person:Person)-[:ACTED_IN]->(movie:Movie) RETURN movie,person
 
-//zadanie 6: dopytac
+//zadanie 6:
 MATCH (actor:Person)-[m:ACTED_IN]->(:Movie) RETURN a, count(m) as movie_count
 
 //zadanie 7: 

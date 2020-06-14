@@ -1,0 +1,3254 @@
+﻿[
+  {
+    "destenation": {
+      "identity": 193,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "ROC"
+      }
+    },
+    "cost": 2993.8999999999996
+  },
+  {
+    "destenation": {
+      "identity": 217,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "BWI"
+      }
+    },
+    "cost": 2969
+  },
+  {
+    "destenation": {
+      "identity": 211,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "TPA"
+      }
+    },
+    "cost": 2963.25
+  },
+  {
+    "destenation": {
+      "identity": 168,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "ORD"
+      }
+    },
+    "cost": 2947.75
+  },
+  {
+    "destenation": {
+      "identity": 168,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "ORD"
+      }
+    },
+    "cost": 2945.75
+  },
+  {
+    "destenation": {
+      "identity": 228,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "SGF"
+      }
+    },
+    "cost": 2927.8999999999996
+  },
+  {
+    "destenation": {
+      "identity": 216,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "ORF"
+      }
+    },
+    "cost": 2922.2
+  },
+  {
+    "destenation": {
+      "identity": 165,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "MCO"
+      }
+    },
+    "cost": 2920.5
+  },
+  {
+    "destenation": {
+      "identity": 165,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "MCO"
+      }
+    },
+    "cost": 2919.75
+  },
+  {
+    "destenation": {
+      "identity": 221,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "OMA"
+      }
+    },
+    "cost": 2909.8999999999996
+  },
+  {
+    "destenation": {
+      "identity": 221,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "OMA"
+      }
+    },
+    "cost": 2909.8999999999996
+  },
+  {
+    "destenation": {
+      "identity": 221,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "OMA"
+      }
+    },
+    "cost": 2909.1499999999996
+  },
+  {
+    "destenation": {
+      "identity": 221,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "OMA"
+      }
+    },
+    "cost": 2907.6499999999996
+  },
+  {
+    "destenation": {
+      "identity": 212,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "PIT"
+      }
+    },
+    "cost": 2906.1499999999996
+  },
+  {
+    "destenation": {
+      "identity": 212,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "PIT"
+      }
+    },
+    "cost": 2905.3999999999996
+  },
+  {
+    "destenation": {
+      "identity": 212,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "PIT"
+      }
+    },
+    "cost": 2904.6499999999996
+  },
+  {
+    "destenation": {
+      "identity": 212,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "PIT"
+      }
+    },
+    "cost": 2904.6499999999996
+  },
+  {
+    "destenation": {
+      "identity": 192,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "LGA"
+      }
+    },
+    "cost": 2898
+  },
+  {
+    "destenation": {
+      "identity": 168,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "ORD"
+      }
+    },
+    "cost": 2884.25
+  },
+  {
+    "destenation": {
+      "identity": 168,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "ORD"
+      }
+    },
+    "cost": 2884.25
+  },
+  {
+    "destenation": {
+      "identity": 162,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "EWR"
+      }
+    },
+    "cost": 2879
+  },
+  {
+    "destenation": {
+      "identity": 188,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "CMH"
+      }
+    },
+    "cost": 2854
+  },
+  {
+    "destenation": {
+      "identity": 162,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "EWR"
+      }
+    },
+    "cost": 2828.75
+  },
+  {
+    "destenation": {
+      "identity": 172,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "SFO"
+      }
+    },
+    "cost": 2815.25
+  },
+  {
+    "destenation": {
+      "identity": 172,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "SFO"
+      }
+    },
+    "cost": 2815.25
+  },
+  {
+    "destenation": {
+      "identity": 172,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "SFO"
+      }
+    },
+    "cost": 2814.5
+  },
+  {
+    "destenation": {
+      "identity": 168,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "ORD"
+      }
+    },
+    "cost": 2809.2499999999995
+  },
+  {
+    "destenation": {
+      "identity": 168,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "ORD"
+      }
+    },
+    "cost": 2792.25
+  },
+  {
+    "destenation": {
+      "identity": 168,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "ORD"
+      }
+    },
+    "cost": 2790.75
+  },
+  {
+    "destenation": {
+      "identity": 168,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "ORD"
+      }
+    },
+    "cost": 2785.6499999999996
+  },
+  {
+    "destenation": {
+      "identity": 161,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "SEA"
+      }
+    },
+    "cost": 2760.1
+  },
+  {
+    "destenation": {
+      "identity": 229,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "GRR"
+      }
+    },
+    "cost": 2758.9999999999995
+  },
+  {
+    "destenation": {
+      "identity": 229,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "GRR"
+      }
+    },
+    "cost": 2757.7999999999997
+  },
+  {
+    "destenation": {
+      "identity": 229,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "GRR"
+      }
+    },
+    "cost": 2756.5999999999995
+  },
+  {
+    "destenation": {
+      "identity": 168,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "ORD"
+      }
+    },
+    "cost": 2756.1499999999996
+  },
+  {
+    "destenation": {
+      "identity": 229,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "GRR"
+      }
+    },
+    "cost": 2755.3999999999996
+  },
+  {
+    "destenation": {
+      "identity": 229,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "GRR"
+      }
+    },
+    "cost": 2754.2
+  },
+  {
+    "destenation": {
+      "identity": 173,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "IAD"
+      }
+    },
+    "cost": 2753.5499999999997
+  },
+  {
+    "destenation": {
+      "identity": 229,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "GRR"
+      }
+    },
+    "cost": 2729.3999999999996
+  },
+  {
+    "destenation": {
+      "identity": 229,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "GRR"
+      }
+    },
+    "cost": 2728.3999999999996
+  },
+  {
+    "destenation": {
+      "identity": 229,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "GRR"
+      }
+    },
+    "cost": 2727.3999999999996
+  },
+  {
+    "destenation": {
+      "identity": 229,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "GRR"
+      }
+    },
+    "cost": 2726.3999999999996
+  },
+  {
+    "destenation": {
+      "identity": 229,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "GRR"
+      }
+    },
+    "cost": 2725.3999999999996
+  },
+  {
+    "destenation": {
+      "identity": 182,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "MSN"
+      }
+    },
+    "cost": 2719.3999999999996
+  },
+  {
+    "destenation": {
+      "identity": 217,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "BWI"
+      }
+    },
+    "cost": 2712
+  },
+  {
+    "destenation": {
+      "identity": 172,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "SFO"
+      }
+    },
+    "cost": 2711
+  },
+  {
+    "destenation": {
+      "identity": 177,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "BOS"
+      }
+    },
+    "cost": 2700
+  },
+  {
+    "destenation": {
+      "identity": 161,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "SEA"
+      }
+    },
+    "cost": 2699.2
+  },
+  {
+    "destenation": {
+      "identity": 182,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "MSN"
+      }
+    },
+    "cost": 2696.3999999999996
+  },
+  {
+    "destenation": {
+      "identity": 168,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "ORD"
+      }
+    },
+    "cost": 2694.5499999999997
+  },
+  {
+    "destenation": {
+      "identity": 229,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "GRR"
+      }
+    },
+    "cost": 2692.3999999999996
+  },
+  {
+    "destenation": {
+      "identity": 229,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "GRR"
+      }
+    },
+    "cost": 2691.6499999999996
+  },
+  {
+    "destenation": {
+      "identity": 168,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "ORD"
+      }
+    },
+    "cost": 2690.95
+  },
+  {
+    "destenation": {
+      "identity": 229,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "GRR"
+      }
+    },
+    "cost": 2690.8999999999996
+  },
+  {
+    "destenation": {
+      "identity": 229,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "GRR"
+      }
+    },
+    "cost": 2690.1499999999996
+  },
+  {
+    "destenation": {
+      "identity": 229,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "GRR"
+      }
+    },
+    "cost": 2689.3999999999996
+  },
+  {
+    "destenation": {
+      "identity": 192,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "LGA"
+      }
+    },
+    "cost": 2679.1
+  },
+  {
+    "destenation": {
+      "identity": 216,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "ORF"
+      }
+    },
+    "cost": 2673
+  },
+  {
+    "destenation": {
+      "identity": 182,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "MSN"
+      }
+    },
+    "cost": 2667.6499999999996
+  },
+  {
+    "destenation": {
+      "identity": 162,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "EWR"
+      }
+    },
+    "cost": 2665.6
+  },
+  {
+    "destenation": {
+      "identity": 178,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "DEN"
+      }
+    },
+    "cost": 2645.0499999999997
+  },
+  {
+    "destenation": {
+      "identity": 167,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "FLL"
+      }
+    },
+    "cost": 2631.8
+  },
+  {
+    "destenation": {
+      "identity": 168,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "ORD"
+      }
+    },
+    "cost": 2631.35
+  },
+  {
+    "destenation": {
+      "identity": 172,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "SFO"
+      }
+    },
+    "cost": 2630.8
+  },
+  {
+    "destenation": {
+      "identity": 172,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "SFO"
+      }
+    },
+    "cost": 2630.8
+  },
+  {
+    "destenation": {
+      "identity": 172,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "SFO"
+      }
+    },
+    "cost": 2629.6
+  },
+  {
+    "destenation": {
+      "identity": 172,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "SFO"
+      }
+    },
+    "cost": 2629.6
+  },
+  {
+    "destenation": {
+      "identity": 168,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "ORD"
+      }
+    },
+    "cost": 2628.35
+  },
+  {
+    "destenation": {
+      "identity": 188,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "CMH"
+      }
+    },
+    "cost": 2614.6
+  },
+  {
+    "destenation": {
+      "identity": 189,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "SJC"
+      }
+    },
+    "cost": 2606.8
+  },
+  {
+    "destenation": {
+      "identity": 168,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "ORD"
+      }
+    },
+    "cost": 2581.3999999999996
+  },
+  {
+    "destenation": {
+      "identity": 168,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "ORD"
+      }
+    },
+    "cost": 2552.35
+  },
+  {
+    "destenation": {
+      "identity": 168,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "ORD"
+      }
+    },
+    "cost": 2550.1
+  },
+  {
+    "destenation": {
+      "identity": 162,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "EWR"
+      }
+    },
+    "cost": 2543
+  },
+  {
+    "destenation": {
+      "identity": 162,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "EWR"
+      }
+    },
+    "cost": 2540
+  },
+  {
+    "destenation": {
+      "identity": 192,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "LGA"
+      }
+    },
+    "cost": 2530.25
+  },
+  {
+    "destenation": {
+      "identity": 168,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "ORD"
+      }
+    },
+    "cost": 2528.8
+  },
+  {
+    "destenation": {
+      "identity": 168,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "ORD"
+      }
+    },
+    "cost": 2527.6
+  },
+  {
+    "destenation": {
+      "identity": 168,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "ORD"
+      }
+    },
+    "cost": 2525.2
+  },
+  {
+    "destenation": {
+      "identity": 168,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "ORD"
+      }
+    },
+    "cost": 2524
+  },
+  {
+    "destenation": {
+      "identity": 168,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "ORD"
+      }
+    },
+    "cost": 2522.8
+  },
+  {
+    "destenation": {
+      "identity": 178,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "DEN"
+      }
+    },
+    "cost": 2519.85
+  },
+  {
+    "destenation": {
+      "identity": 162,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "EWR"
+      }
+    },
+    "cost": 2516
+  },
+  {
+    "destenation": {
+      "identity": 219,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "MEM"
+      }
+    },
+    "cost": 2507.2
+  },
+  {
+    "destenation": {
+      "identity": 165,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "MCO"
+      }
+    },
+    "cost": 2495
+  },
+  {
+    "destenation": {
+      "identity": 165,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "MCO"
+      }
+    },
+    "cost": 2493.8
+  },
+  {
+    "destenation": {
+      "identity": 161,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "SEA"
+      }
+    },
+    "cost": 2485.6
+  },
+  {
+    "destenation": {
+      "identity": 178,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "DEN"
+      }
+    },
+    "cost": 2469.2
+  },
+  {
+    "destenation": {
+      "identity": 167,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "FLL"
+      }
+    },
+    "cost": 2431
+  },
+  {
+    "destenation": {
+      "identity": 172,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "SFO"
+      }
+    },
+    "cost": 2428.6
+  },
+  {
+    "destenation": {
+      "identity": 172,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "SFO"
+      }
+    },
+    "cost": 2428.6
+  },
+  {
+    "destenation": {
+      "identity": 172,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "SFO"
+      }
+    },
+    "cost": 2427.6
+  },
+  {
+    "destenation": {
+      "identity": 172,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "SFO"
+      }
+    },
+    "cost": 2427.6
+  },
+  {
+    "destenation": {
+      "identity": 189,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "SJC"
+      }
+    },
+    "cost": 2408.6
+  },
+  {
+    "destenation": {
+      "identity": 217,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "BWI"
+      }
+    },
+    "cost": 2390.75
+  },
+  {
+    "destenation": {
+      "identity": 168,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "ORD"
+      }
+    },
+    "cost": 2389
+  },
+  {
+    "destenation": {
+      "identity": 178,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "DEN"
+      }
+    },
+    "cost": 2363.35
+  },
+  {
+    "destenation": {
+      "identity": 216,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "ORF"
+      }
+    },
+    "cost": 2361.5
+  },
+  {
+    "destenation": {
+      "identity": 168,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "ORD"
+      }
+    },
+    "cost": 2343.6
+  },
+  {
+    "destenation": {
+      "identity": 168,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "ORD"
+      }
+    },
+    "cost": 2342.6
+  },
+  {
+    "destenation": {
+      "identity": 168,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "ORD"
+      }
+    },
+    "cost": 2340.6
+  },
+  {
+    "destenation": {
+      "identity": 168,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "ORD"
+      }
+    },
+    "cost": 2339.6
+  },
+  {
+    "destenation": {
+      "identity": 168,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "ORD"
+      }
+    },
+    "cost": 2338.6
+  },
+  {
+    "destenation": {
+      "identity": 178,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "DEN"
+      }
+    },
+    "cost": 2335
+  },
+  {
+    "destenation": {
+      "identity": 173,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "IAD"
+      }
+    },
+    "cost": 2325.75
+  },
+  {
+    "destenation": {
+      "identity": 219,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "MEM"
+      }
+    },
+    "cost": 2325.6
+  },
+  {
+    "destenation": {
+      "identity": 165,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "MCO"
+      }
+    },
+    "cost": 2317
+  },
+  {
+    "destenation": {
+      "identity": 165,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "MCO"
+      }
+    },
+    "cost": 2316
+  },
+  {
+    "destenation": {
+      "identity": 188,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "CMH"
+      }
+    },
+    "cost": 2315.35
+  },
+  {
+    "destenation": {
+      "identity": 161,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "SEA"
+      }
+    },
+    "cost": 2218.6
+  },
+  {
+    "destenation": {
+      "identity": 167,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "FLL"
+      }
+    },
+    "cost": 2180
+  },
+  {
+    "destenation": {
+      "identity": 190,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "PHX"
+      }
+    },
+    "cost": 2179.6
+  },
+  {
+    "destenation": {
+      "identity": 172,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "SFO"
+      }
+    },
+    "cost": 2175.85
+  },
+  {
+    "destenation": {
+      "identity": 172,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "SFO"
+      }
+    },
+    "cost": 2175.85
+  },
+  {
+    "destenation": {
+      "identity": 172,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "SFO"
+      }
+    },
+    "cost": 2175.1
+  },
+  {
+    "destenation": {
+      "identity": 172,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "SFO"
+      }
+    },
+    "cost": 2175.1
+  },
+  {
+    "destenation": {
+      "identity": 178,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "DEN"
+      }
+    },
+    "cost": 2167.25
+  },
+  {
+    "destenation": {
+      "identity": 189,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "SJC"
+      }
+    },
+    "cost": 2160.85
+  },
+  {
+    "destenation": {
+      "identity": 168,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "ORD"
+      }
+    },
+    "cost": 2148.5
+  },
+  {
+    "destenation": {
+      "identity": 168,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "ORD"
+      }
+    },
+    "cost": 2112.1
+  },
+  {
+    "destenation": {
+      "identity": 168,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "ORD"
+      }
+    },
+    "cost": 2111.35
+  },
+  {
+    "destenation": {
+      "identity": 168,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "ORD"
+      }
+    },
+    "cost": 2109.85
+  },
+  {
+    "destenation": {
+      "identity": 168,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "ORD"
+      }
+    },
+    "cost": 2109.1
+  },
+  {
+    "destenation": {
+      "identity": 168,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "ORD"
+      }
+    },
+    "cost": 2108.35
+  },
+  {
+    "destenation": {
+      "identity": 219,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "MEM"
+      }
+    },
+    "cost": 2098.6
+  },
+  {
+    "destenation": {
+      "identity": 165,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "MCO"
+      }
+    },
+    "cost": 2094.5
+  },
+  {
+    "destenation": {
+      "identity": 165,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "MCO"
+      }
+    },
+    "cost": 2093.75
+  },
+  {
+    "destenation": {
+      "identity": 223,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "BZN"
+      }
+    },
+    "cost": 2075.2
+  },
+  {
+    "destenation": {
+      "identity": 190,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "PHX"
+      }
+    },
+    "cost": 2052.6
+  },
+  {
+    "destenation": {
+      "identity": 224,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "OKC"
+      }
+    },
+    "cost": 2039.1999999999998
+  },
+  {
+    "destenation": {
+      "identity": 177,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "BOS"
+      }
+    },
+    "cost": 2025
+  },
+  {
+    "destenation": {
+      "identity": 226,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "TUL"
+      }
+    },
+    "cost": 1965.8
+  },
+  {
+    "destenation": {
+      "identity": 223,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "BZN"
+      }
+    },
+    "cost": 1965.6
+  },
+  {
+    "destenation": {
+      "identity": 224,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "OKC"
+      }
+    },
+    "cost": 1935.6
+  },
+  {
+    "destenation": {
+      "identity": 162,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "EWR"
+      }
+    },
+    "cost": 1907.25
+  },
+  {
+    "destenation": {
+      "identity": 162,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "EWR"
+      }
+    },
+    "cost": 1905
+  },
+  {
+    "destenation": {
+      "identity": 190,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "PHX"
+      }
+    },
+    "cost": 1893.85
+  },
+  {
+    "destenation": {
+      "identity": 226,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "TUL"
+      }
+    },
+    "cost": 1876
+  },
+  {
+    "destenation": {
+      "identity": 223,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "BZN"
+      }
+    },
+    "cost": 1828.6
+  },
+  {
+    "destenation": {
+      "identity": 220,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "MFE"
+      }
+    },
+    "cost": 1826.6
+  },
+  {
+    "destenation": {
+      "identity": 224,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "OKC"
+      }
+    },
+    "cost": 1806.1
+  },
+  {
+    "destenation": {
+      "identity": 173,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "IAD"
+      }
+    },
+    "cost": 1791
+  },
+  {
+    "destenation": {
+      "identity": 226,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "TUL"
+      }
+    },
+    "cost": 1763.75
+  },
+  {
+    "destenation": {
+      "identity": 220,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "MFE"
+      }
+    },
+    "cost": 1760
+  },
+  {
+    "destenation": {
+      "identity": 163,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "IAH"
+      }
+    },
+    "cost": 1712.3999999999999
+  },
+  {
+    "destenation": {
+      "identity": 179,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "DFW"
+      }
+    },
+    "cost": 1711.4
+  },
+  {
+    "destenation": {
+      "identity": 225,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "CRP"
+      }
+    },
+    "cost": 1685
+  },
+  {
+    "destenation": {
+      "identity": 225,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "CRP"
+      }
+    },
+    "cost": 1683.8
+  },
+  {
+    "destenation": {
+      "identity": 225,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "CRP"
+      }
+    },
+    "cost": 1682.6
+  },
+  {
+    "destenation": {
+      "identity": 225,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "CRP"
+      }
+    },
+    "cost": 1682.6
+  },
+  {
+    "destenation": {
+      "identity": 225,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "CRP"
+      }
+    },
+    "cost": 1682.6
+  },
+  {
+    "destenation": {
+      "identity": 225,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "CRP"
+      }
+    },
+    "cost": 1682.6
+  },
+  {
+    "destenation": {
+      "identity": 225,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "CRP"
+      }
+    },
+    "cost": 1682.6
+  },
+  {
+    "destenation": {
+      "identity": 225,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "CRP"
+      }
+    },
+    "cost": 1682.6
+  },
+  {
+    "destenation": {
+      "identity": 225,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "CRP"
+      }
+    },
+    "cost": 1682.6
+  },
+  {
+    "destenation": {
+      "identity": 220,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "MFE"
+      }
+    },
+    "cost": 1676.75
+  },
+  {
+    "destenation": {
+      "identity": 179,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "DFW"
+      }
+    },
+    "cost": 1664
+  },
+  {
+    "destenation": {
+      "identity": 225,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "CRP"
+      }
+    },
+    "cost": 1642
+  },
+  {
+    "destenation": {
+      "identity": 225,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "CRP"
+      }
+    },
+    "cost": 1641
+  },
+  {
+    "destenation": {
+      "identity": 225,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "CRP"
+      }
+    },
+    "cost": 1640
+  },
+  {
+    "destenation": {
+      "identity": 225,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "CRP"
+      }
+    },
+    "cost": 1640
+  },
+  {
+    "destenation": {
+      "identity": 225,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "CRP"
+      }
+    },
+    "cost": 1640
+  },
+  {
+    "destenation": {
+      "identity": 225,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "CRP"
+      }
+    },
+    "cost": 1640
+  },
+  {
+    "destenation": {
+      "identity": 225,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "CRP"
+      }
+    },
+    "cost": 1640
+  },
+  {
+    "destenation": {
+      "identity": 225,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "CRP"
+      }
+    },
+    "cost": 1640
+  },
+  {
+    "destenation": {
+      "identity": 225,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "CRP"
+      }
+    },
+    "cost": 1640
+  },
+  {
+    "destenation": {
+      "identity": 178,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "DEN"
+      }
+    },
+    "cost": 1606.8
+  },
+  {
+    "destenation": {
+      "identity": 218,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "AUS"
+      }
+    },
+    "cost": 1605.8
+  },
+  {
+    "destenation": {
+      "identity": 179,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "DFW"
+      }
+    },
+    "cost": 1604.75
+  },
+  {
+    "destenation": {
+      "identity": 225,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "CRP"
+      }
+    },
+    "cost": 1588.25
+  },
+  {
+    "destenation": {
+      "identity": 225,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "CRP"
+      }
+    },
+    "cost": 1587.5
+  },
+  {
+    "destenation": {
+      "identity": 225,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "CRP"
+      }
+    },
+    "cost": 1586.75
+  },
+  {
+    "destenation": {
+      "identity": 225,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "CRP"
+      }
+    },
+    "cost": 1586.75
+  },
+  {
+    "destenation": {
+      "identity": 225,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "CRP"
+      }
+    },
+    "cost": 1586.75
+  },
+  {
+    "destenation": {
+      "identity": 225,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "CRP"
+      }
+    },
+    "cost": 1586.75
+  },
+  {
+    "destenation": {
+      "identity": 225,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "CRP"
+      }
+    },
+    "cost": 1586.75
+  },
+  {
+    "destenation": {
+      "identity": 225,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "CRP"
+      }
+    },
+    "cost": 1586.75
+  },
+  {
+    "destenation": {
+      "identity": 225,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "CRP"
+      }
+    },
+    "cost": 1586.75
+  },
+  {
+    "destenation": {
+      "identity": 218,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "AUS"
+      }
+    },
+    "cost": 1576
+  },
+  {
+    "destenation": {
+      "identity": 218,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "AUS"
+      }
+    },
+    "cost": 1538.75
+  },
+  {
+    "destenation": {
+      "identity": 163,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "IAH"
+      }
+    },
+    "cost": 1427
+  },
+  {
+    "destenation": {
+      "identity": 178,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "DEN"
+      }
+    },
+    "cost": 1417.6
+  },
+  {
+    "destenation": {
+      "identity": 166,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "LAX"
+      }
+    },
+    "cost": 1387.9499999999998
+  },
+  {
+    "destenation": {
+      "identity": 166,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "LAX"
+      }
+    },
+    "cost": 1381.9499999999998
+  },
+  {
+    "destenation": {
+      "identity": 166,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "LAX"
+      }
+    },
+    "cost": 1380.75
+  },
+  {
+    "destenation": {
+      "identity": 166,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "LAX"
+      }
+    },
+    "cost": 1380.75
+  },
+  {
+    "destenation": {
+      "identity": 166,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "LAX"
+      }
+    },
+    "cost": 1244.75
+  },
+  {
+    "destenation": {
+      "identity": 166,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "LAX"
+      }
+    },
+    "cost": 1239.75
+  },
+  {
+    "destenation": {
+      "identity": 166,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "LAX"
+      }
+    },
+    "cost": 1238.75
+  },
+  {
+    "destenation": {
+      "identity": 166,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "LAX"
+      }
+    },
+    "cost": 1238.75
+  },
+  {
+    "destenation": {
+      "identity": 178,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "DEN"
+      }
+    },
+    "cost": 1181.1
+  },
+  {
+    "destenation": {
+      "identity": 163,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "IAH"
+      }
+    },
+    "cost": 1070.25
+  },
+  {
+    "destenation": {
+      "identity": 166,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "LAX"
+      }
+    },
+    "cost": 1065.75
+  },
+  {
+    "destenation": {
+      "identity": 166,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "LAX"
+      }
+    },
+    "cost": 1062
+  },
+  {
+    "destenation": {
+      "identity": 166,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "LAX"
+      }
+    },
+    "cost": 1061.25
+  },
+  {
+    "destenation": {
+      "identity": 166,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "LAX"
+      }
+    },
+    "cost": 1061.25
+  },
+  {
+    "destenation": {
+      "identity": 178,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "DEN"
+      }
+    },
+    "cost": 971.55
+  },
+  {
+    "destenation": {
+      "identity": 166,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "LAX"
+      }
+    },
+    "cost": 924
+  },
+  {
+    "destenation": {
+      "identity": 166,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "LAX"
+      }
+    },
+    "cost": 924
+  },
+  {
+    "destenation": {
+      "identity": 201,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "ABQ"
+      }
+    },
+    "cost": 848.4
+  },
+  {
+    "destenation": {
+      "identity": 201,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "ABQ"
+      }
+    },
+    "cost": 847.1999999999999
+  },
+  {
+    "destenation": {
+      "identity": 201,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "ABQ"
+      }
+    },
+    "cost": 847.1999999999999
+  },
+  {
+    "destenation": {
+      "identity": 201,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "ABQ"
+      }
+    },
+    "cost": 846
+  },
+  {
+    "destenation": {
+      "identity": 201,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "ABQ"
+      }
+    },
+    "cost": 846
+  },
+  {
+    "destenation": {
+      "identity": 201,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "ABQ"
+      }
+    },
+    "cost": 846
+  },
+  {
+    "destenation": {
+      "identity": 201,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "ABQ"
+      }
+    },
+    "cost": 844.8
+  },
+  {
+    "destenation": {
+      "identity": 178,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "DEN"
+      }
+    },
+    "cost": 840.75
+  },
+  {
+    "destenation": {
+      "identity": 166,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "LAX"
+      }
+    },
+    "cost": 829
+  },
+  {
+    "destenation": {
+      "identity": 166,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "LAX"
+      }
+    },
+    "cost": 829
+  },
+  {
+    "destenation": {
+      "identity": 166,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "LAX"
+      }
+    },
+    "cost": 710.25
+  },
+  {
+    "destenation": {
+      "identity": 166,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "LAX"
+      }
+    },
+    "cost": 710.25
+  },
+  {
+    "destenation": {
+      "identity": 201,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "ABQ"
+      }
+    },
+    "cost": 707
+  },
+  {
+    "destenation": {
+      "identity": 201,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "ABQ"
+      }
+    },
+    "cost": 706
+  },
+  {
+    "destenation": {
+      "identity": 201,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "ABQ"
+      }
+    },
+    "cost": 706
+  },
+  {
+    "destenation": {
+      "identity": 201,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "ABQ"
+      }
+    },
+    "cost": 705
+  },
+  {
+    "destenation": {
+      "identity": 201,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "ABQ"
+      }
+    },
+    "cost": 705
+  },
+  {
+    "destenation": {
+      "identity": 201,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "ABQ"
+      }
+    },
+    "cost": 705
+  },
+  {
+    "destenation": {
+      "identity": 201,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "ABQ"
+      }
+    },
+    "cost": 704
+  },
+  {
+    "destenation": {
+      "identity": 178,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "DEN"
+      }
+    },
+    "cost": 677.25
+  },
+  {
+    "destenation": {
+      "identity": 203,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "TUS"
+      }
+    },
+    "cost": 566.4
+  },
+  {
+    "destenation": {
+      "identity": 203,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "TUS"
+      }
+    },
+    "cost": 566.4
+  },
+  {
+    "destenation": {
+      "identity": 201,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "ABQ"
+      }
+    },
+    "cost": 530.25
+  },
+  {
+    "destenation": {
+      "identity": 201,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "ABQ"
+      }
+    },
+    "cost": 529.5
+  },
+  {
+    "destenation": {
+      "identity": 201,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "ABQ"
+      }
+    },
+    "cost": 529.5
+  },
+  {
+    "destenation": {
+      "identity": 201,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "ABQ"
+      }
+    },
+    "cost": 528.75
+  },
+  {
+    "destenation": {
+      "identity": 201,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "ABQ"
+      }
+    },
+    "cost": 528.75
+  },
+  {
+    "destenation": {
+      "identity": 201,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "ABQ"
+      }
+    },
+    "cost": 528.75
+  },
+  {
+    "destenation": {
+      "identity": 201,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "ABQ"
+      }
+    },
+    "cost": 528
+  },
+  {
+    "destenation": {
+      "identity": 174,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "SMF"
+      }
+    },
+    "cost": 474
+  },
+  {
+    "destenation": {
+      "identity": 174,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "SMF"
+      }
+    },
+    "cost": 472.79999999999995
+  },
+  {
+    "destenation": {
+      "identity": 203,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "TUS"
+      }
+    },
+    "cost": 472
+  },
+  {
+    "destenation": {
+      "identity": 203,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "TUS"
+      }
+    },
+    "cost": 472
+  },
+  {
+    "destenation": {
+      "identity": 174,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "SMF"
+      }
+    },
+    "cost": 471.59999999999997
+  },
+  {
+    "destenation": {
+      "identity": 174,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "SMF"
+      }
+    },
+    "cost": 471.59999999999997
+  },
+  {
+    "destenation": {
+      "identity": 166,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "LAX"
+      }
+    },
+    "cost": 435.75
+  },
+  {
+    "destenation": {
+      "identity": 166,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "LAX"
+      }
+    },
+    "cost": 432.15
+  },
+  {
+    "destenation": {
+      "identity": 166,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "LAX"
+      }
+    },
+    "cost": 432.15
+  },
+  {
+    "destenation": {
+      "identity": 166,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "LAX"
+      }
+    },
+    "cost": 432.15
+  },
+  {
+    "destenation": {
+      "identity": 174,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "SMF"
+      }
+    },
+    "cost": 395
+  },
+  {
+    "destenation": {
+      "identity": 174,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "SMF"
+      }
+    },
+    "cost": 394
+  },
+  {
+    "destenation": {
+      "identity": 174,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "SMF"
+      }
+    },
+    "cost": 393
+  },
+  {
+    "destenation": {
+      "identity": 174,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "SMF"
+      }
+    },
+    "cost": 393
+  },
+  {
+    "destenation": {
+      "identity": 166,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "LAX"
+      }
+    },
+    "cost": 390.75
+  },
+  {
+    "destenation": {
+      "identity": 166,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "LAX"
+      }
+    },
+    "cost": 387.75
+  },
+  {
+    "destenation": {
+      "identity": 166,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "LAX"
+      }
+    },
+    "cost": 387.75
+  },
+  {
+    "destenation": {
+      "identity": 166,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "LAX"
+      }
+    },
+    "cost": 387.75
+  },
+  {
+    "destenation": {
+      "identity": 203,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "TUS"
+      }
+    },
+    "cost": 354
+  },
+  {
+    "destenation": {
+      "identity": 203,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "TUS"
+      }
+    },
+    "cost": 354
+  },
+  {
+    "destenation": {
+      "identity": 166,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "LAX"
+      }
+    },
+    "cost": 334.5
+  },
+  {
+    "destenation": {
+      "identity": 166,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "LAX"
+      }
+    },
+    "cost": 332.25
+  },
+  {
+    "destenation": {
+      "identity": 166,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "LAX"
+      }
+    },
+    "cost": 332.25
+  },
+  {
+    "destenation": {
+      "identity": 166,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "LAX"
+      }
+    },
+    "cost": 332.25
+  },
+  {
+    "destenation": {
+      "identity": 186,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "LAS"
+      }
+    },
+    "cost": 298.8
+  },
+  {
+    "destenation": {
+      "identity": 174,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "SMF"
+      }
+    },
+    "cost": 296.25
+  },
+  {
+    "destenation": {
+      "identity": 174,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "SMF"
+      }
+    },
+    "cost": 295.5
+  },
+  {
+    "destenation": {
+      "identity": 174,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "SMF"
+      }
+    },
+    "cost": 294.75
+  },
+  {
+    "destenation": {
+      "identity": 174,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "SMF"
+      }
+    },
+    "cost": 294.75
+  },
+  {
+    "destenation": {
+      "identity": 202,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "FAT"
+      }
+    },
+    "cost": 267.59999999999997
+  },
+  {
+    "destenation": {
+      "identity": 202,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "FAT"
+      }
+    },
+    "cost": 266.4
+  },
+  {
+    "destenation": {
+      "identity": 202,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "FAT"
+      }
+    },
+    "cost": 265.2
+  },
+  {
+    "destenation": {
+      "identity": 202,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "FAT"
+      }
+    },
+    "cost": 265.2
+  },
+  {
+    "destenation": {
+      "identity": 186,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "LAS"
+      }
+    },
+    "cost": 249
+  },
+  {
+    "destenation": {
+      "identity": 202,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "FAT"
+      }
+    },
+    "cost": 223
+  },
+  {
+    "destenation": {
+      "identity": 202,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "FAT"
+      }
+    },
+    "cost": 222
+  },
+  {
+    "destenation": {
+      "identity": 202,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "FAT"
+      }
+    },
+    "cost": 221
+  },
+  {
+    "destenation": {
+      "identity": 202,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "FAT"
+      }
+    },
+    "cost": 221
+  },
+  {
+    "destenation": {
+      "identity": 186,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "LAS"
+      }
+    },
+    "cost": 186.75
+  },
+  {
+    "destenation": {
+      "identity": 202,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "FAT"
+      }
+    },
+    "cost": 167.25
+  },
+  {
+    "destenation": {
+      "identity": 202,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "FAT"
+      }
+    },
+    "cost": 166.5
+  },
+  {
+    "destenation": {
+      "identity": 202,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "FAT"
+      }
+    },
+    "cost": 165.75
+  },
+  {
+    "destenation": {
+      "identity": 202,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "FAT"
+      }
+    },
+    "cost": 165.75
+  }
+]
