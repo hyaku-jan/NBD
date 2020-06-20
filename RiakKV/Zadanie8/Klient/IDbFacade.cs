@@ -10,5 +10,7 @@ namespace DefaultNamespace
         Task UpdateAsync(T newValue, string key);
 
         Task RemoveAsync(string key);
+
+        Task<T> ReadAsync(string key);
     }
 }
