@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Threading.Tasks;
 using DefaultNamespace;
 
@@ -15,7 +16,7 @@ namespace Klient
             IDbFacade<RiakEntity> facade = new RiakDbFacade(url, "s21748");
 
             Console.WriteLine("Adding");
-            await facade.AddAsync(new RiakEntity() {BoleanProperty = false, IntProperty = 144, StringProperty = "Baz"});
+            await facade.AddAsync(new RiakEntity() {BoleanProperty = false, IntProperty = 144, StringProperty = "Baz"}, key);
 
             Console.WriteLine("Reading");
             var entity = await facade.ReadAsync(key);
@@ -32,8 +33,16 @@ namespace Klient
             Console.WriteLine("Removing");
             await facade.RemoveAsync(key);
 
-            Console.WriteLine("Reading after deletion");
-            await facade.ReadAsync(key);
+            try
+            {
+                Console.WriteLine("Reading after deletion");
+                await facade.ReadAsync(key);
+            }
+            catch (KeyNotFoundException e)
+            {
+                Console.WriteLine($"Key missing: {e.Message}");
+            }
+            
         }
     }
 }

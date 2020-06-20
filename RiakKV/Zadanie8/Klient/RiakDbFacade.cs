@@ -53,7 +53,7 @@ namespace Klient
 
             using var client = new HttpClient();
 
-            Console.WriteLine($"Response code: {(await client.PostAsync(requestUri, content)).StatusCode}");
+            Console.WriteLine($"Response code: {(await client.PutAsync(requestUri, content)).StatusCode}");
         }
 
         public async Task UpdateAsync(RiakEntity newValue, string key)
